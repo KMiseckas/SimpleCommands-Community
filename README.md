@@ -10,5 +10,5 @@ Read up on existing project documentation in the [Wiki](https://github.com/KMise
 If any queries remain, please create a ticket or discussion.
 
 ## Info
-Unity Store Link: [SimpleCommands](google.com)
+Unity Store Link: Coming Soon
 
