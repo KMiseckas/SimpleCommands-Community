@@ -10,5 +10,5 @@ Read up on existing project documentation in the [Wiki](https://github.com/KMise
 If any queries remain, please create a ticket or discussion.
 
 ## Info
-Unity Store Link: Coming Soon
+Unity Store Link: [Asset Page](https://assetstore.unity.com/packages/slug/199595?_ga=2.135876785.1497251381.1628504056-1554363740.1625960340)
 
